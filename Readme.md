@@ -8,7 +8,7 @@ This assignment is part of the job application process for the position of QA En
 
 ### Objective
 
-Your objective is to define and implement BDD-style test scenarios for a simplified *Smart Charging API*. The scenarios must be defined in the [Gherkin](https://en.wikipedia.org/wiki/Cucumber_(software)#Gherkin_language) language and implemented using [SpecFlow](https://docs.specflow.org/) on .NET. You are encouraged to use the scaffolded project in this repository as a starting point, but you are free to set up your own solution.
+Your objective is to define and implement BDD-style test scenarios for a simplified *Smart Charging API*. The scenarios **MUST** be defined in the [Gherkin](https://en.wikipedia.org/wiki/Cucumber_(software)#Gherkin_language) language and implemented using [SpecFlow](https://docs.specflow.org/) on .NET. You are encouraged to use the scaffolded project in this repository as a starting point, but you are free to set up your own solution with [SpecFlow](https://docs.specflow.org/) and .NET.
 
 ### General Requirements
 
