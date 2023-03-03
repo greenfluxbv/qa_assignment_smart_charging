@@ -21,7 +21,7 @@ Your objective is to define and implement BDD-style test scenarios for a simplif
 
 ### Evaluation
 
-We mostly judge your assignment on structure and cohesion (can we understand your reasoning, does it cover the most important business cases), readability (not over-engineered nor hacked together), and maintainability (what if we need to extend your solution in the future). Completing this assignment shouldn’t take more than a couple of hours. The result doesn’t need to be fully finished, as long as it demonstrates your skills as a QA engineer.
+We mostly judge your assignment on structure and cohesion (can we understand your reasoning, does it cover the most important business cases), readability (not over-engineered nor hacked together), and maintainability (what if we need to extend your solution in the future). The result doesn’t need to be fully finished, as long as it demonstrates your skills as a QA engineer.
 
 Please send us back the complete source code, preferrably as a Git repository. You could send us a zipped archive or invite us to a private GitHub repository. Sharing your solution publicly on the internet will disqualify your submission. Please include this `Readme.md` file in your submission.
 
